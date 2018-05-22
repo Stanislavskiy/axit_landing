@@ -1,0 +1,17 @@
+.page-home {
+  height: 40rem;
+  background: url('../img/page-home/bg.jpg') no-repeat center / cover;
+}
+
+.content {
+  padding-top: 7rem;
+}
+
+.text {
+  margin-top: 1.875rem;
+  font-size: 2.25rem;
+}
+
+.line {
+  
+}

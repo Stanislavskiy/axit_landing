@@ -1,0 +1,38 @@
+/* Primary */
+
+.font-primary-regular {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+.font-primary-light {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+}
+
+.font-primary-bold {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+/* Secondary */
+
+.font-secondary-regular {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.font-secondary-light {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+.font-secondary-semibold {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.font-secondary-bold {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
