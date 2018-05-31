@@ -1,0 +1,17 @@
+.page-sublist {
+  padding-top: 9.125rem;
+  padding-bottom: 9.125rem;
+}
+
+.page-sublist__description {
+  font-size: 0.875rem;
+  color: #86878b;
+}
+
+.page-sublist_margin_top {
+  margin-top: 1.875rem;
+}
+
+.page-sublist__title {
+  font-size: 0.875rem;
+}

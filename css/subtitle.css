@@ -1,0 +1,11 @@
+.subtitle {
+  font-size: 1.25rem;
+  text-transform: uppercase;
+}
+
+.subtitle__line {
+  width: 4rem;
+  height: 0.125rem;
+  background: #e77f35;
+  margin-top: 1.875rem;
+}

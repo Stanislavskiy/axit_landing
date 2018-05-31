@@ -1,0 +1,14 @@
+.page-picture {
+  padding-top: 9.125rem;
+  padding-bottom: 9.125rem;
+  background: #f5f5f5;
+}
+
+.page-picture__description {
+  font-size: 0.875rem;
+  color: #86878b;
+}
+
+.page-picture_margin_top {
+  margin-top: 1.875rem;
+}

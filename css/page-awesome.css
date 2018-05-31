@@ -1,0 +1,20 @@
+.page-awesome {
+  padding-top: 9.125rem;
+  padding-bottom: 9.125rem;
+}
+
+.page-awesome__content {
+  margin-top: 5rem;
+}
+
+.page-awesome__title {
+  margin-top: 1.875rem;
+  font-size: 1.25rem;
+}
+
+.page-awesome__description {
+  text-align: center;
+  font-size: 0.875rem;
+  margin-top: 1.875rem;
+  color: #86878b;
+}
