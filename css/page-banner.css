@@ -1,0 +1,29 @@
+.page-banner {
+  padding-top: 3.5em;
+  padding-bottom: 3.5rem;
+  color: #fff;
+  background: url("../img/page-banner/bg.png") no-repeat center / cover;
+}
+
+.page-banner_line_color {
+  background: #fff;
+}
+
+.page-banner__banner-button {
+  height: 2.625rem;
+  width: 8.9375rem;
+  font-size: 0.9375rem;
+  border: 2px solid #fff;
+  background: none;
+  color: #fff;
+  margin-top: 1.875rem;
+  cursor: pointer;
+}
+
+.page-banner_color {
+  color: #fff;
+}
+
+.page-banner_opacity {
+  opacity: 0.7;
+}

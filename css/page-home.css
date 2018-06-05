@@ -32,6 +32,7 @@
   background: none;
   color: #fff;
   margin-top: 1.875rem;
+  cursor: pointer;
 }
 
 .page-home__button:hover {

@@ -1,0 +1,39 @@
+.page-customers {
+  padding-top: 9.125rem;
+  padding-bottom: 9.125rem;
+}
+
+.page-customers__reviews {
+  margin-top: 5rem;
+}
+
+.page-customers__review {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.page-customers__rewiew-text {
+  background: url("../img/page-customers/bg.png") no-repeat center / cover;
+  color: #7a7c80;
+  border-radius: 5px;
+  font-size: 0.875rem;
+  font-style: italic;
+  padding: 2rem 2rem 2rem 2rem;
+}
+
+.page-customers__customer {
+  margin-top: 1rem;
+}
+
+.page-customers__heading {
+  margin-left: 1rem;
+}
+
+.page-customers__title {
+  font-size: 1.25rem;
+}
+
+.page-customers__description {
+  font-size: 0.875rem;
+  color: #86878b;
+}

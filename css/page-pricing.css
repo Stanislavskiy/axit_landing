@@ -1,0 +1,66 @@
+.page-pricing {
+  padding-top: 9.125rem;
+  padding-bottom: 9.125rem;
+  background: #f5f5f5;
+}
+
+.page-pricing__prices {
+  margin-top: 5rem;
+}
+
+.page-pricing__option-heading {
+  width: 100%;
+  text-align: center;
+  font-size: 1.25rem;
+  background: #333;
+  border-bottom: 1px solid #dededf;
+  color: #fff;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+}
+
+.page-pricing__option-price {
+  width: 100%;
+  padding-top: 0.7rem;
+  padding-bottom: 1rem;
+  background: #333;
+  color: #fff;
+  text-align: center;
+  border-bottom: 5px solid #ff8b38;
+}
+
+.page-pricing__sign {
+  font-size: 2.185rem;
+}
+
+.page-pricing__number {
+  font-size: 5.875rem;
+}
+
+.page-pricing__description {
+  font-size: 0.875rem;
+  font-style: italic;
+  opacity: 0.5;
+}
+
+.page-pricing__popular {
+  color: #fff;
+  background: #ff8b38;
+  font-size: 0.875rem;
+  padding-top: 0.425rem;
+  padding-bottom: 0.5rem;
+  text-align: center;
+}
+
+.page-pricing__price-features {
+  background: #fff;
+}
+
+.page-pricing__price-feature {
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #7a7c80;
+  border-bottom: 1px solid #f5f5f5;
+}
