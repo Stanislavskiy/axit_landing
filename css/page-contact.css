@@ -1,0 +1,59 @@
+.page-contact {
+  padding-top: 9.125rem;
+  padding-bottom: 9.125rem;
+}
+
+.page-contact__form {
+  margin-top: 5rem;
+}
+
+.page-contact__input {
+  border: none;
+  border-bottom: 1px solid #d6d6d6;
+  color: #acacad;
+  width: 100%;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-top: 1.875rem;
+  font-size: 0.875rem;
+}
+
+.page-contact__input:first-of-type {
+  margin-top: 0;
+}
+
+.page-contact_height_100 {
+  height: 100%;
+}
+
+.page-contact__button {
+  margin-top: 5rem;
+  width: 9.125rem;
+  height: 2.75rem;
+  background: #ff9b51;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 0.9375rem;
+  box-shadow: 0px 2px 3px rgba(0,0,0, 0.3);
+}
+
+@media screen and (max-width: 992px) {
+  .page-contact {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .page-customers__review:not(:first-of-type) {
+    margin-top: 5rem;
+  }
+
+  .page-contact_height_100 {
+    height: 10rem;
+    margin-top: 1.875rem !important;
+  }
+
+  .page-contact__button {
+    margin-top: 3rem;
+  }
+}

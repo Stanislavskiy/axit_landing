@@ -18,3 +18,22 @@
   margin-top: 1.875rem;
   color: #86878b;
 }
+
+@media screen and (max-width: 992px) {
+  .page-awesome {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .page-awesome__image {
+    margin-top: 1.875rem;
+  }
+
+  .page-awesome__feature {
+    margin-top: 3rem;
+  }
+
+  .page-awesome__content {
+    margin-top: 2rem;
+  }
+}

@@ -17,3 +17,10 @@
 .page-social__social-icon {
   color: #ccc;
 }
+
+@media screen and (max-width: 992px) {
+  .page-social__social {
+    margin-top: 3rem;
+    margin-left: 0;
+  }
+}

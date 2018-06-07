@@ -12,3 +12,10 @@
 .page-picture_margin_top {
   margin-top: 1.875rem;
 }
+
+@media screen and (max-width: 992px) {
+  .page-picture {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+}

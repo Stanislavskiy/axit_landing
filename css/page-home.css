@@ -1,10 +1,11 @@
 .page-home {
-  height: 40rem;
+  padding-top: 9.125rem;
+  padding-bottom: 9.125rem;
   background: url('../img/page-home/bg.jpg') no-repeat center / cover;
 }
 
 .page-home__content {
-  padding-top: 7rem;
+
 }
 
 .page-home__text {
@@ -85,4 +86,26 @@
   border: none;
   color: #fff;
   cursor: pointer;
+}
+
+/* medium */
+@media screen and (max-width: 992px) {
+  .page-home {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .page-home__text {
+    font-size: 1.5rem;
+  }
+
+  .page-home__button {
+    margin-top: 3rem;
+  }
+
+  .page-home__action {
+    margin-top: 5rem;
+    width: 100%;
+  }
+
 }

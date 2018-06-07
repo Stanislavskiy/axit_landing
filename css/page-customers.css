@@ -37,3 +37,15 @@
   font-size: 0.875rem;
   color: #86878b;
 }
+
+@media screen and (max-width: 992px) {
+  .page-cutomers {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .page-customers__review:not(:first-of-type) {
+    margin-top: 5rem;
+  }
+
+}

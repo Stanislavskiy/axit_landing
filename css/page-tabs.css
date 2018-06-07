@@ -55,3 +55,19 @@
 .page-tabs__button:hover {
   background: #e27e25;
 }
+
+
+@media screen and (max-width: 992px) {
+  .page-tabs {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .tab-control__container {
+    margin-top: 2rem;
+  }
+
+  .page-tabs .page-tabs__tab {
+    margin-top: 0;
+  }
+}

@@ -13,8 +13,16 @@
 .navbar-collapse {
   padding: 0px;
   transition: all 0.2s ease-in-out;
+  font-size: 0.875rem;
 }
 
 .show {
     margin-top: 10px;
+}
+
+@media screen and (max-width: 992px) {
+  .nav__nav-item {
+    font-weight: 400;
+    
+  }
 }
